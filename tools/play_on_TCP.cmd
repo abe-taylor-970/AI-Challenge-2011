@@ -1,0 +1,1 @@
+python tcpclient.py ants.fluxid.pl 2081 "java -cp c:\installs\log4j\log4j.jar;c:\aichallenge\ai\trunk\. -jar c:\aichallenge\ai\trunk\MyBot.jar" Euphony 37047734

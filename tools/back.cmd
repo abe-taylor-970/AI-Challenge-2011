@@ -1,0 +1,1 @@
+cd \aichallenge\ai\trunk

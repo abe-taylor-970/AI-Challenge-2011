@@ -1,0 +1,11 @@
+import java.util.Comparator;
+
+
+public class F_scoreComparator implements Comparator<ASearchTile> {
+
+	@Override
+	public int compare(ASearchTile ATile0, ASearchTile ATile1) {
+		return (int)(10000 * (ATile0.getF_score() - ATile1.getF_score()));
+	}
+
+}

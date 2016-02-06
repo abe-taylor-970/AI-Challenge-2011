@@ -1,0 +1,17 @@
+
+2- player cell_maze
+-------------------
+Before Combat : 6
+First Combat : 6
+
+3-player cell_maze
+------------------
+1st : 2 
+2nd : 2
+3rd : 2
+
+random_walk
+------------
+2-player : 1st, 2nd
+3-player : 1st
+4-player : 1st, 4th

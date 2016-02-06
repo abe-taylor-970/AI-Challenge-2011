@@ -1,0 +1,2 @@
+# This is a Java bot for Google's AI Challenge in 2011. The website may still be at aichallenge.org . It uses A* search to find food, locate other ant hills, and raze them. There is an attempt to implement some battle tactics, but I did not have enough time to complete that code (I started the contest two months late, and it was a three months-long contest.)
+# Looking at MyBot.java is a good place to start. The code is pretty messy, and I haven't had time to clean it up. 

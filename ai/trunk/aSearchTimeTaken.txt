@@ -1,0 +1,2 @@
+A* search : 2000 iterations expect 50ms
+A* search : 1000 iterations expect 20ms

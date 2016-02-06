@@ -1,0 +1,1 @@
+python playgame.py "java -cp c:\installs\log4j\log4j.jar;c:\aichallenge\ai\trunk\. -jar c:\aichallenge\ai\trunk\MyBot.jar" "python sample_bots/python/HunterBot.py" --map_file maps/example/tutorial1.map --log_dir game_logs --turns 120 --scenario --food none --player_seed 7 --verbose -e
